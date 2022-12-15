@@ -1,0 +1,43 @@
+.root {
+	-fx-font-size: 14px;
+}
+
+.encrypt-button {
+	-fx-background-color: maroon;
+	-fx-text-fill: #EEE;
+}
+
+.decrypt-button {
+	-fx-background-color: maroon;
+	-fx-text-fill: #EEE;
+}
+
+.createFile-button {
+	-fx-background-color: maroon;
+	-fx-text-fill: #EEE;
+}
+
+.readFile-button {
+	-fx-background-color: maroon;
+	-fx-text-fill: #EEE;
+}
+
+.encrypt-button:hover {
+	-fx-background-color: white;
+	-fx-text-fill: maroon;
+}
+
+.decrypt-button:hover {
+	-fx-background-color: white;
+	-fx-text-fill: maroon;
+}
+
+.createFile-button:hover {
+	-fx-background-color: white;
+	-fx-text-fill: maroon;
+}
+
+.readFile-button:hover {
+	-fx-background-color: white;
+	-fx-text-fill: maroon;
+}
